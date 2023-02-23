@@ -23,3 +23,7 @@ body {
     display: inline-block;
     border: 2px solid blanchedalmond;
   }  
+footer {
+  text-align: right;
+  bottom: 2px;
+}
