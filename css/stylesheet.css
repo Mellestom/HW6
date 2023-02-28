@@ -1,3 +1,9 @@
+.aligncenter {
+    text-align: center;
+}
+.alignright {
+    text-align: right;
+}
 .resumemain {
     background-color: rgb(16, 61, 16);
     color:burlywood;
