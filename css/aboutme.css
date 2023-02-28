@@ -1,29 +1,37 @@
 body {
     background-color:rgb(9, 56, 9);
   }
-  h1 {
+h1 {
     color: burlywood;
     padding: 8px 12px 10px;
     text-align: center;
   }
-  p {
-    color: bisque;
+p {
+    color: burlywood;
     position: absolute;
     left: 10px;
     width: 200px;
     padding: 10px;
   }
 
-  a:link, a:visited {
+a:link, a:visited {
     background-color: rgb(9, 56, 9);
-    color: blanchedalmond;
+    color: burlywood;
     padding: 10px 16px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    border: 2px solid blanchedalmond;
+    border: 2px solid burlywood;
   }  
 footer {
-  text-align: right;
-  bottom: 2px;
+    text-align: right;
+    bottom: 2px;
+    color: burlywood;
+  }
+h3 {
+    color:burlywood
+  }
+li { 
+  color:burlywood
 }
+

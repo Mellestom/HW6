@@ -1,20 +1,26 @@
 body {
     background-color:rgb(9, 56, 9);
   }
-  h1 {
+h1 {
     color: burlywood;
     padding: 8px 12px 10px;
   }
-  p {
-    color: bisque;
+p {
+    color: burlywood;
   }
 
-  a:link, a:visited {
+a:link, a:visited {
     background-color: rgb(9, 56, 9);
-    color: blanchedalmond;
+    color: burlywood;
     padding: 14px 25px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     border: 4px black;
   }  
+
+footer {
+  color: burlywood;
+  text-align: right;
+  bottom: auto;
+}
