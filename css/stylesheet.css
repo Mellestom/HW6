@@ -1,0 +1,76 @@
+.wrapper {
+    background-color: forestgreen;
+  }
+  
+  header {
+    background-color: forestgreen;
+    padding: 25px;
+    text-align: center;
+    color: burlywood;
+  }
+  
+  nav {
+    background-color: forestgreen;
+    margin: 10px;
+    padding-bottom: 25px;
+    border-bottom: 1px solid burlywood;
+  }
+  
+  a {
+    text-decoration: none;
+    font-size: 1.1rem;
+  }
+  
+  /* unvisited link */
+  a:link {
+    color: burlywood;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: burlywood;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: burlywood;
+    background-color: forestgreen;
+    padding: 2px;
+  }
+  
+  /* selected link */
+  a:active {
+    color: burlywood;
+  }
+  
+  main {
+    background-color: forestgreen;
+  }
+  
+  footer {
+    background-color: forestgreen;
+    padding: 25px;
+    text-align: center;
+    color: burlywood;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 50%;
+    background-color: burlywood;
+    border: 1px solid black;
+  }
+  
+  th {
+    background-color: bisque;
+    color: burlywood;
+  }
+  
+  td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: burlywood;
+  }
